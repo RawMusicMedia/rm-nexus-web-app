@@ -1,10 +1,10 @@
-# Raw Spaces web app (your own address)
+# RM Nexus web app (your own address)
 
-A tiny website that shows Raw Spaces at **nexus.rawmusicmedia.org** with the Raw Material icon, so it installs like an app on phones, iPads and computers. The app itself still runs on Apps Script — nothing about data, Sheets or emails changes.
+A tiny website that shows RM Nexus at **nexus.rawmusicmedia.org** with the Raw Material icon, so it installs like an app on phones, iPads and computers. The app itself still runs on Apps Script — nothing about data, Sheets or emails changes.
 
 | Address | Opens | Install as |
 |---|---|---|
-| nexus.rawmusicmedia.org | Staff app (and public schedule) | Raw Spaces |
+| nexus.rawmusicmedia.org | Staff app (and public schedule) | RM Nexus |
 | nexus.rawmusicmedia.org/kiosk/ | Visitor sign-in | Sign in |
 | nexus.rawmusicmedia.org/hire/ | Public hire form | Hire a space |
 

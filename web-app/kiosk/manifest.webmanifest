@@ -4,7 +4,7 @@
   "background_color": "#F3F2F2",
   "theme_color": "#F3F2F2",
   "id": "/kiosk/",
-  "name": "Raw Spaces Sign in",
+  "name": "RM Nexus · Sign in",
   "short_name": "Sign in",
   "description": "Visitor sign-in kiosk.",
   "start_url": "./",
