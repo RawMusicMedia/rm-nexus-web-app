@@ -14,7 +14,7 @@ Links with extras still work, e.g. `nexus.rawmusicmedia.org/?page=programmes`.
 
 1. **Point it at the app.** Open `config.js` and paste the Web app URL from Apps Script → Deploy → Manage deployments (ends in `/exec`).
 2. **Publish the folder** (free, GitHub Pages):
-   - In the GitHub repo: Settings → Pages → Source: *Deploy from a branch* → branch `main`, folder `/web-app`. (Or move this folder into its own repo and pick `/ (root)`.)
+   - In the GitHub repo: Settings → Pages → Source: *Deploy from a branch* → branch `main`, folder `/docs`. (GitHub Pages only offers `/ (root)` or `/docs`, so the web app lives in `/docs`.)
    - Custom domain: `nexus.rawmusicmedia.org` → Save. Tick **Enforce HTTPS** once it appears.
    - Prefer Netlify or Cloudflare Pages? Drag this folder in — same result.
 3. **Add the address.** Whoever manages rawmusicmedia.org adds one DNS record:
